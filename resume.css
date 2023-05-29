@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+}
+.body-header{
+height: 65vh;
+opacity: 0.8;
+background-image: url(nature.jpg);
+background-size:cover;
+background-position: fixed;
+background-position: center;
+}
+.text-center{
+    text-align: center;
+}
+.header-nav{
+    background-color: gray;
+    list-style: none;
+    padding-left: 0px;
+}
+.header-nav li{
+    
+    padding-right: 10px;
+    display: inline;
+}
+.header-nav a{
+    text-decoration: none;
+    color: greenyellow;
+    font-size: 20px;
+    font-weight:700;
+}
